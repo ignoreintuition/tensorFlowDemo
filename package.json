@@ -1,0 +1,19 @@
+{
+  "name": "tensorFlowDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.4.5",
+    "@tensorflow/tfjs": "^1.1.2",
+    "prettier": "^1.18.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
